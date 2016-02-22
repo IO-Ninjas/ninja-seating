@@ -16,7 +16,7 @@
 - http://blog.capterra.com/free-event-management-software/ (OpenSource + Commercial)
 - https://github.com/openSUSE/osem
 
-## Inspiration & 
+## Inspiration
 - https://513-ok-shift.com/
 - http://www.lookup.to/
 - https://resy.com
